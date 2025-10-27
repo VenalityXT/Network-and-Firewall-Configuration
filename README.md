@@ -4,9 +4,8 @@
 [![UFW](https://img.shields.io/badge/Firewall-UFW-blueviolet)](https://wiki.ubuntu.com/UncomplicatedFirewall)
 [![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnubash)](https://www.gnu.org/software/bash/)
 [![Security](https://img.shields.io/badge/Focus-Network%20Security-red)](https://en.wikipedia.org/wiki/Network_security)
-[![IPv6](https://img.shields.io/badge/Protocol-IPv6-darkgreen)](https://datatracker.ietf.org/wg/ipv6/)
 [![IPv4](https://img.shields.io/badge/Protocol-IPv4-blue)](https://datatracker.ietf.org/doc/html/rfc791)
-
+[![IPv6](https://img.shields.io/badge/Protocol-IPv6-darkgreen)](https://datatracker.ietf.org/wg/ipv6/)
 
 ---
 
