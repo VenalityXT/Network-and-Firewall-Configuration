@@ -83,10 +83,12 @@ sudo ufw allow 443
 
 When checking the status after adding both, you’ll see duplicates:
 ```
-80/tcp   ALLOW   Anywhere
-80       ALLOW   Anywhere
-80/tcp (v6) ALLOW Anywhere (v6)
-80 (v6)  ALLOW   Anywhere (v6)
+To                         Action      From
+--                         ------      ----
+80/tcp                     ALLOW   Anywhere
+80                         ALLOW   Anywhere
+80/tcp (v6)                ALLOW   Anywhere (v6)
+80 (v6)                    ALLOW   Anywhere (v6)
 ```
 
 To maintain **efficiency and clarity**, unnecessary duplicates can be removed using the delete command:
