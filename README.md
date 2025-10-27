@@ -30,7 +30,7 @@ sudo ufw status
 
 **Output Example:**
 ```
-Status: active $${\color{red}This \space is \space red \space text.}$$
+Status: active
 To                         Action      From
 --                         ------      ----
 22/tcp                     ALLOW       Anywhere
@@ -211,3 +211,6 @@ This project demonstrated:
 - Verifying functionality with **ping tests** and enabling **UFW logging** for audit visibility.
 
 Through these configurations, I successfully secured a Linux system using UFW, ensuring both network accessibility and protection.
+
+
+$${\color{red}This \space is \space red \space text.}$$
