@@ -1,6 +1,19 @@
 # **Network and Firewall Configuration**
 
-This project demonstrates how to configure and secure a Linux system using the **Uncomplicated Firewall (UFW)**. The goal was to define default firewall policies, allow specific services, enable logging, and verify system connectivity through testing and troubleshooting.
+[![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux)](https://www.linux.org/)
+[![UFW](https://img.shields.io/badge/Firewall-UFW-blueviolet)](https://wiki.ubuntu.com/UncomplicatedFirewall)
+[![Bash](https://img.shields.io/badge/Shell-Bash-green?logo=gnubash)](https://www.gnu.org/software/bash/)
+[![Security](https://img.shields.io/badge/Focus-Network%20Security-red)](https://en.wikipedia.org/wiki/Network_security)
+[![IPv6](https://img.shields.io/badge/Protocol-IPv6-darkgreen)](https://datatracker.ietf.org/wg/ipv6/)
+
+---
+
+## **Project Overview**
+
+This project demonstrates the configuration and management of the **Uncomplicated Firewall (UFW)** in a Linux environment to secure system traffic.  
+As a **junior system administrator**, I configured default firewall policies, allowed specific ports and services, enabled logging, and tested connectivity to verify network security posture.  
+
+The lab highlights how **UFW** simplifies firewall administration by allowing and denying traffic through readable commands and demonstrates understanding of **IPv4 vs IPv6** rule management, **ICMP traffic**, and **firewall logging** for visibility.
 
 ---
 
