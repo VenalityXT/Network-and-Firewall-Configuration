@@ -1,7 +1,7 @@
 # **Network and Firewall Configuration**
 
 This project demonstrates how to configure and secure a Linux system using the **Uncomplicated Firewall (UFW)**. The goal was to define default firewall policies, allow specific services, enable logging, and verify system connectivity through testing and troubleshooting.
-$${\color{red}This \space is \space red \space text.}$$
+
 ---
 
 ## **Objectives**
@@ -30,7 +30,7 @@ sudo ufw status
 
 **Output Example:**
 ```
-Status: active
+Status: active $${\color{red}This \space is \space red \space text.}$$
 To                         Action      From
 --                         ------      ----
 22/tcp                     ALLOW       Anywhere
