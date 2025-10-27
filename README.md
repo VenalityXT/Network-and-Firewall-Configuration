@@ -11,6 +11,7 @@
 ## **Project Overview**
 
 This project demonstrates the configuration and management of the **Uncomplicated Firewall (UFW)** in a Linux environment to secure system traffic.  
+
 As a **junior system administrator**, I configured default firewall policies, allowed specific ports and services, enabled logging, and tested connectivity to verify network security posture.  
 
 The lab highlights how **UFW** simplifies firewall administration by allowing and denying traffic through readable commands and demonstrates understanding of **IPv4 vs IPv6** rule management, **ICMP traffic**, and **firewall logging** for visibility.
@@ -23,12 +24,6 @@ The lab highlights how **UFW** simplifies firewall administration by allowing an
 3. Configure default rules to control network traffic effectively.  
 4. Enable logging to monitor firewall activity.  
 5. Verify rule functionality through testing and troubleshooting.
-
----
-
-## **Scenario**
-You are a **junior system administrator** managing a Linux server experiencing intermittent connectivity issues.  
-Your task is to implement proper firewall rules using UFW to secure the server, test connectivity, and confirm logging is active.
 
 ---
 
